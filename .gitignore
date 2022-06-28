@@ -1,0 +1,13 @@
+.gradle
+.idea
+.vscode
+.DS_Store
+build
+node_modules
+*.iml
+classes
+*.log
+out
+**/build.json
+.project
+.classpath
